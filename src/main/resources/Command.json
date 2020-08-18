@@ -1,0 +1,37 @@
+[
+  {
+    "command": "clear",
+    "class": "Clear",
+    "isAdminCommand": true
+  },
+  {
+    "command": "coronavirus",
+    "class": "Coronavirus",
+    "isAdminCommand": false
+  },
+  {
+    "command": "play",
+    "class": "Music.MusicBot",
+    "isAdminCommand": false
+  },
+  {
+    "command": "pause",
+    "class": "Music.MusicBot",
+    "isAdminCommand": false
+  },
+  {
+    "command": "stop",
+    "class": "Music.MusicBot",
+    "isAdminCommand": false
+  },
+  {
+    "command": "queue",
+    "class": "Music.MusicBot",
+    "isAdminCommand": false
+  },
+  {
+    "command": "wiki",
+    "class": "Wikipedia",
+    "isAdminCommand": false
+  }
+]
